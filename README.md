@@ -5,8 +5,6 @@ The model implemented here is a simple Feed-forward Artificial Neural Network to
 Artificial Neural Networks is a network of interconnected perceptrons that work based on pattern recognition. The model is trained using a Training dataset that contains an 'input' and a corresponding 'result' allowing it to form corresponding weighed assosiations that the model adjusts as it iterates through the Dataset. This is known as Supervised Learning. The trained model is capable of making predictions on unseen values. 
 These models can be applied to a wide range of problems thanks to their non-linear data processing ability.
 
-Links and References: 
 
-Kaggle csv file used in the project: https://www.kaggle.com/mlg-ulb/creditcardfraud
- 
-Wikipedia: https://en.wikipedia.org/wiki/Artificial_neural_network
+
+
