@@ -1,4 +1,4 @@
-# FraudCreditCardTransactionDetector
+# Fraud Credit Card Transaction Detector
 
 The model implemented here is a simple Feed-forward Artificial Neural Network to identify fraudulent creditcard transactions given historical data of bank transactions. The dataset used for this project is the 'Credit Card Fraud' Detection from Kaggle. This model was built and trained using a hosted notebook on Google colab.
 
